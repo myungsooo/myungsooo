@@ -8,7 +8,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myungsooo&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myungsooo&theme=dark&show_icons=true&hide=Makefile,html)](https://github.com/myungsooo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myungsooo&theme=dark&layout=compact&hide=Makefile,html)](https://github.com/myungsooo/github-readme-stats)
 
 <!---
 myungsooo/myungsooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
