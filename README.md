@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=myungsooo&fontSize=90)
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-[![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black)](github.com/myungsooo/#)
+
+[![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black)](github.com/myungsooo/)
 
 
 
