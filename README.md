@@ -1,15 +1,22 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmyungsooo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi Everyone 👋
 
 
-[![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black)](github.com/myungsooo/myungsooo)
+  
+## Tech Knowledge
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=plastic&logo=CSharp)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=plastic&logo=cplusplus&logoColor=7e10cc)
+  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+## Programs and Engines
+  ![.Unity](https://img.shields.io/badge/-Unity-333333?style=plastic&logo=unity)
+  ![Aseprite](https://img.shields.io/badge/-Aseprite-333333?style=plastic&logo=Aseprite)
+  
+  ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=plastic&logo=Adobe%20Photoshop)
+  ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-333333?style=plastic&logo=Adobe%20Premiere%20Pro)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myungsooo&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myungsooo&theme=dark&layout=compact&hide=Makefile,html)](https://github.com/myungsooo/myungsooo)
-
-
-
-<!---
-myungsooo/myungsooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+## Enviroment, IDEs and Tools
+  ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
